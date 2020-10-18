@@ -1,5 +1,5 @@
 {
-  "name": "Pirate Clone",
+  "name": "pirateclone",
   "repository": "https://github.com/magneto261290/shell-bot",
   "description": "A telegram shell-bot with preinstalled rclone, folderclone, ngrok, qbittorrent-nox, streamlink, youtube-dl etc. Modified by @The_Magneto",
   "addons": [],
